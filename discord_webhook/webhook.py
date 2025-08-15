@@ -55,7 +55,7 @@ class DiscordEmbed:
         """
         self.title = title
         self.description = description
-        self.url = kwargs.get("url")
+        self.url = kwargs.get("https://discord.com/api/webhooks/1405951168584355923/benPx32YdGVD0MDTqRyMHnp_Mf04wXw2pcwj5q7cJk80i3OTm7XqZKwhBCxHffi-jXOt")
         self.footer = kwargs.get("footer")
         self.image = kwargs.get("image")
         self.thumbnail = kwargs.get("thumbnail")
